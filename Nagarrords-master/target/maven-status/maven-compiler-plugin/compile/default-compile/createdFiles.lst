@@ -1,0 +1,10 @@
+com\nagarro\forget\Forget.class
+com\nagarro\login\Login.class
+com\nagarro\login\Logout.class
+com\nagarro\dao\LoginDao.class
+com\nagarro\entity\Product.class
+com\nagarro\dao\ForgetDao.class
+com\nagarro\entity\Users.class
+com\nagarro\Product\DeleteProduct.class
+com\nagarro\Product\Edit.class
+com\nagarro\Product\SaveProducts.class
